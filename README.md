@@ -48,9 +48,7 @@ The server provides the following API endpoints:
 # Database Configuration
 
 Make sure to configure the db_connection_string variable in app.py with the appropriate PostgreSQL database connection string. This includes the database name, username, password, and host information.
-# Contributing
 
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 # License
 
 This project is licensed under the GNU General Public License (GPL). See the [LICENSE](LICENSE) file for more information.
